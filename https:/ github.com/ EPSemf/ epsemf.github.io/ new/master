@@ -1,0 +1,30 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<meta charset="UTF-8"> 
+<title>Николай Михалйов</title>
+</head>
+<body> 
+<div id="header">
+<h1>Николай Михайлов</h1>
+<h3>Машинист электровоза</h3>
+<p><a href="mailto:epsemf@ya.ru"></a> <a href="https://ru.hexlet.io/courses/html/lessons/grouping/exercise_unit#lesson">Мой сайт</a></p>
+</div>
+<div id="main"> 
+<h1>Опыт работы</h1>
+<h2>Грузчик</h2>
+<p> Небольшой опыт работы</p>
+<h1>Образование</h1>
+<h2>2007-2012</h2>
+<p> Закончил ИрГупс</p>
+<h1>Хобби</h1>
+<h2>Кроссфит</h2>
+<p> 3 года тренировок</p>
+</div>
+<div id="footer"> 
+    <h3> Николай</h3>
+  <span class="icon">📞 </span>+7 950 142 11 88
+  <span class="icon">✉️ </span>epsemf@ya.ru
+</div>
+</body>
+</html>
